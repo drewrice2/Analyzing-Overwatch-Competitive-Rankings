@@ -6,7 +6,7 @@ This project sought to analyze the distribution of players' ranks after opening 
 
 A Jupyter Notebook was the best choice for the job to easily generate and read summary statistics. Graphing on new data was very straightforward too. Every half hour or so, I reran the script on the new data in order to update the notebook. The data cleaning was necessary due to some troll responses such as string data and values outside of the expected range. After an initial cleaning, I limited the data by chopping off the first and last 5%. Finally, I updated the repo after each run of the script in order to share the info with reddit.
 
-The data is available from this repo in .csv format. **WARNING:** some of the troll responses are explicit. 
+The data is available from this repo in .csv format. **WARNING:** some of the troll responses are explicit.
 
 
 *Drew Rice, 2016.*
